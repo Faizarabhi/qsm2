@@ -1,11 +1,14 @@
 #include<stdio.h>
 #include<stdbool.h>
 int main(){
-	//e= essaye || r = nombre des qst i= les points j= le points gagnerr pour chaque qst
-	int r=1,a,e=1,j=0,i=0;
+	//e= essaye || r = nombre des qst i= les points 
+	int r=1,
+	a,
+	e=1,
+	i=0;
 	bool k= false;
 
-	printf("Bienvenu !\ns'il vous plais répendez au questions suivants\n");
+	printf("Bienvenu !\ns'il vous plais rï¿½pendez au questions suivants\n");
 	
 	
 	
